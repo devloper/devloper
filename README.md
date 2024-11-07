@@ -2,6 +2,8 @@
 
 Hi, I'm Tracy. I'm a software engineer turned founder. I'm passionate about disruptive technology. I studied computer science as an undergraduate, then for the first decade of my career focused on software engineering in cyber security, distributed systems, machine learning, and finally optimal pricing in marketplaces. Now, entering the second decade of my career, I've co-founded Pluto with my excellent friend and co-founder Matt. We are building Pluto because we believe cryptography has hidden secrets that will unlock powerful new capabilities for digital society (and by extension, all society). For a glimpse of the first idea, go check out our website to learn about Web Proofs.
 
+
+
 Casual Things:
 - I grew up in Montana, then spent the early part of my career living in SF. I'm now in NYC.
 - I love running, especially while traveling. You'll regularly find me lacing up my shoes for a run along the Hudson River.
