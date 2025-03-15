@@ -1,6 +1,6 @@
 # Welcome
 
-Hi, I'm Tracy. I'm a software engineer turned founder. I'm passionate about disruptive technology. I studied computer science as an undergraduate, then for the first decade of my career focused on software engineering in cyber security, distributed systems, machine learning, and finally optimal pricing in marketplaces. Now, entering the second decade of my career, I've co-founded Pluto with my excellent friend and co-founder Matt. We are building Pluto because we believe the internet needs tools for trust. For a glimpse of the first idea, go check out our website to learn about Web Proofs.
+Hi, I'm Tracy. I'm a software engineer turned founder. I'm passionate about disruptive technology. I studied computer science as an undergraduate, then for the first decade of my career focused on software engineering in cyber security, distributed systems, machine learning, and finally optimal pricing in marketplaces. Now, entering the second decade of my career, I've co-founded Pluto with my excellent friend and co-founder Matt. We are building Pluto because we believe the internet needs tools for trust and we think cryptography holds the answers. For a glimpse of the first idea, go check out our website to learn about Web Proofs.
 
 
 
