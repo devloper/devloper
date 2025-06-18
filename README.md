@@ -11,8 +11,8 @@ Casual Things:
 - My favorite place to travel for low-key vacation is Kauai, for more adventure it's Switzerland, for skiing it's Big Sky.
 
 People I Find Inspiring:
-- Demis Hassabis
 - Patrick Collison
+- Demis Hassabis
 - Elon Musk
 - Vitalik Buterin
 
