@@ -1,14 +1,13 @@
 # Welcome
 
-Hi, I'm Tracy. I'm a software engineer turned founder. I'm passionate about disruptive technology. I studied computer science as an undergraduate, then for the first decade of my career focused on software engineering in cyber security, distributed systems, machine learning, and finally optimal pricing in marketplaces. Now, entering the second decade of my career, I've co-founded Pluto with my excellent friend and co-founder Matt. We are building Pluto because we believe the internet needs tools for trust and we think trusted hardware and cryptography hold the answers. For a glimpse of the first idea, go check out our website to learn about Web Proofs.
-
+Hi, I'm Tracy. I'm a software engineer turned founder. I'm passionate about disruptive technology. I studied computer science as an undergraduate, then for the first decade of my career focused on software engineering in cyber security, distributed systems, machine learning, and finally optimal pricing in marketplaces.
 
 
 Casual Things:
 - I grew up in Montana, then spent the early part of my career living in SF. I'm now in NYC.
 - I love running, especially while traveling. You'll regularly find me lacing up my shoes for a run along the Hudson River.
 - I'm big on strategy board games. Hit me up.
-- My favorite place to travel for low-key vacation is Kauai, for more adventure it's Switzerland, for skiing it's Big Sky.
+- My favorite place to travel for low-key vacation is Kauai, for more adventure it's Annecy, for skiing it's Big Sky.
 
 People I Find Inspiring:
 - Patrick Collison
